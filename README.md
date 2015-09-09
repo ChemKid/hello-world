@@ -1,3 +1,3 @@
 # hello-world
 test repository
-alternate version
+just for learning purposes
